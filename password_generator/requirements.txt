@@ -1,0 +1,6 @@
+---
+
+# requirements.txt
+
+```txt
+# No external libraries required
