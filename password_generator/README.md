@@ -10,10 +10,4 @@ Simple Python password generator using random and string modules.
 ## Run
 
 ```bash
-python main.py 
-```bash
-python3 main.py
-
-## Screenshot
-
-![Output](output.png)
+python main.py/python3 main.py
